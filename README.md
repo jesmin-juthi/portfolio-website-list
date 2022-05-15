@@ -13,10 +13,11 @@ If you are interested working with me, feel free to knock me 🙂
 
 ## Connect with me
 
-<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[https://juthijesmin.com]
+<a href="https://juthijesmin.com"> <img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" /> [https://facebook.com/jesmin.juthi.54]
+<a href="https://facebook.com/jesmin.juthi.54"> <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" /> </a>
 
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" /> [https://www.linkedin.com/in/jesminjuthi/]
+<a href="https://linkedin.com/in/jesminjuthi/"> <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" /> </a>
 
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" /> [https://www.behance.net/jesminjuthi]
+<a href="https://www.behance.net/jesminjuthi"> <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />  </a>
+
