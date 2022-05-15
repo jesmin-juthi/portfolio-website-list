@@ -12,6 +12,7 @@ If you are interested working with me, feel free to knock me 🙂
 > Websites with PHP
 
 ## Connect with me
+<p>
 
 <a href="https://juthijesmin.com"> <img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 
@@ -21,3 +22,5 @@ If you are interested working with me, feel free to knock me 🙂
 
 <a href="https://www.behance.net/jesminjuthi"> <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />  </a>
 
+
+</p>
