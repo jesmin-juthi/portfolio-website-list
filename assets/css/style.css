@@ -189,6 +189,10 @@ footer {
 	background: url(../images/portfolio/22.png);
 }
 
+.bg--23 {
+	background: url(../images/portfolio/23.png);
+}
+
 .portfolio__site__img {
 	background-position: top;
 	background-size: cover;
